@@ -11,5 +11,7 @@ public class Tag
 	public const string Enemy = "Enemy";
 	public const string spikeTop = "SpikeTop";
 	public const string playerHealthImage = "PlayerHealthImage";
+	public const string cog="Cog";
+	public const string collider1="Collider1";
 }
 
